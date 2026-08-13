@@ -1,0 +1,4 @@
+interface:
+  display_name: "技术简历强化"
+  short_description: "将技术简历改写为高密度、可核验且结果导向的专业表达"
+  default_prompt: "使用 $sharpen-technical-resume 强化我的技术简历，保留事实并突出项目链路、个人贡献和量化结果。"
